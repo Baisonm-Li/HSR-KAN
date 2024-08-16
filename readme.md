@@ -31,4 +31,4 @@ python train.py --dataset CAVE --model HSR-KAN --batch_size 32 --epochs 1000
 ![alt text](./pics/image-2.png)
 
 ## Acknowledgement
-Our code references effient [efficient-kan](https://github.com/Blealtan/efficient-kan.git) and [pykan](https://github.com/KindXiaoming/pykan.git). Thanks for their greak work!
+Our code references [efficient-kan](https://github.com/Blealtan/efficient-kan.git) and [pykan](https://github.com/KindXiaoming/pykan.git). Thanks for their greak work!
