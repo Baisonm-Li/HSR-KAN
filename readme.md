@@ -16,11 +16,11 @@ Hyperspectral images (HSIs) have great potential in various visual tasks due to 
 - Chikusei: https://naotoyokoya.com/Download.html 
 - Havard: https://vision.seas.harvard.edu/hyperspec/download.html 
 
-
 ## Usage
 ```
-python train.py --dataset CAVE --model HSR-KAN --batch_size 32 --epochs 1000
+python train.py --dataset CAVE --batch_size 32 --epochs 1000
 ```
+We publish pre-trained network weights in the _models_ folder, which you can load and use directly!
 
 ## Experiments Results
 ### x2,x4,x8 SR on CAVE，Chikusei，Havard datasets
